@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "Alex",
+      "credit": 10000
+    },
+    {
+      "id": 1,
+      "name": "Jacques",
+      "credit": 10000
+    },
+    {
+      "id": 2,
+      "name": "Jessica",
+      "credit": 10000
+    },
+    {
+      "id": 3,
+      "name": "Bea",
+      "credit": 10000
+    },
+    {
+      "id": 4,
+      "name": "Catarina",
+      "credit": 10000
+    },
+    {
+      "id": 5,
+      "name": "Lara",
+      "credit": 10000
+    },
+    {
+      "id": 6,
+      "name": "Maga",
+      "credit": 10000
+    },
+    {
+      "id": 7,
+      "name": "Ines",
+      "credit": 10000
+    },
+    {
+      "id": 8,
+      "name": "Fil",
+      "credit": 10000
+    },
+    {
+      "id": 10,
+      "name": "Test",
+      "credit": 10000
+    }
+  ]
+}
